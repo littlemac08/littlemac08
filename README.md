@@ -1,7 +1,7 @@
 - hello, I'm mac
 - I'm newbie developer
 - I learned coding
-- HTML/CSS/Javascript/REACT/VUE/PHP/JAVA
+- HTML/CSS/Javascript/REACT/VUE/PHP/JAVA/FLUTTER
 - You can see my work by visiting my homepage along with my profile
 - look forward to it
 - thank you :)
